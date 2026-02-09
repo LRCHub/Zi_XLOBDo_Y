@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ビリー・ジーン",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-02-09T13:37:25.753271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビリー・ジーン",
+      "artist": "WINTERPLAY",
+      "has_synced": false,
+      "path": "select/01_ビリー・ジーン_WINTERPLAY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビリー・ジーン",
+      "artist": "Winterplay",
+      "has_synced": false,
+      "path": "select/02_ビリー・ジーン_Winterplay.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Billie_Jean_Michael_Jackson.txt"
+    }
+  ]
+}
